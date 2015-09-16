@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:23:54.747249
+#+DATE: 2015-08-30 20:23:57.442548
 #+TITLE: 金剛頂一切如來真實攝大乘現證大教王經
 #+PROPERTY: CBETA_ID T18n0865
 #+PROPERTY: ID KR6j0024
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 18, No. 865
 #+PROPERTY: VOL 18
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@JIA
 #+PROPERTY: LASTPB <pb:KR6j0024_T_002-0212b> ¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 金剛頂一切如來真實攝大乘現¶
+金剛頂一切如來真實攝大乘現¶
 證大教王經卷中¶
 ¶
 開府儀同三司特進試鴻臚卿肅國¶
@@ -416,7 +415,7 @@
 從一切如來心。纔出已。即彼婆伽梵持金剛。¶
 為一切花供養嚴飾。舒遍一切虛空界。出已。¶
 從彼一切花供養嚴飾。出一切世界微塵等¶
-如來身。出已。復聚為一體。為金剛花天女形。¶
+如來身。出巳。復聚為一體。為金剛花天女形。¶
 依如來金剛摩尼寶峯樓閣隅左邊月輪而¶
 住。說此嗢陀南。¶
 
@@ -802,6 +801,5 @@
 　金剛師事業
 #+END_VERSE
 」¶
-金剛頂一切如來真實攝大乘現證大教王¶
-經卷中¶
+金剛頂一切如來真實攝大乘現證大教王經卷中¶
 
