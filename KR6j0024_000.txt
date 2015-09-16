@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 金剛頂一切如來真實攝大乘現證大教王經
+#+DATE: 2015-08-30 20:23:55.082827
+#+PROPERTY: JUAN 0
